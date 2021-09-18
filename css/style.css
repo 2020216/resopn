@@ -460,7 +460,7 @@ ul li{
         padding: 5%;
     }
  } 
- /* @media (max-width:900px){
+  @media (max-width:900px){
      .cont-input input{
          width: 100%;
          display: block;
@@ -519,7 +519,7 @@ ul li{
    
   
      
- } */
+ } 
  
  @media(max-width:616px){
 
@@ -530,7 +530,7 @@ ul li{
         height: 100vh;
     }
      .banner .image{
-        width: 400px;
+        width: 100%;
 
     }
     .service .service-items {
@@ -566,8 +566,8 @@ ul li{
 
     }
      
-
+ }
     
-}
+ 
 
  
