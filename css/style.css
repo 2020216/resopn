@@ -9,7 +9,7 @@
 .toogle{
     position: fixed;
     top: 50px;
-    right: 50px;
+    left: 50px;
     width: 50px;
     height: 50px;
     background-color: black;
@@ -36,6 +36,7 @@
     grid-template-columns: repeat(3, 1fr);
     height: 100vh;
     position: relative;
+    
 }
 .image img{
     width: 100%;
@@ -529,8 +530,8 @@ ul li{
         height: 100vh;
     }
      .banner .image{
-        width: 600px;
-    
+        width: 800px;
+
     }
     .service .service-items {
         display: grid;
